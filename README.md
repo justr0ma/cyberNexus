@@ -1,6 +1,6 @@
 # cyberNexus
 
-Concept:
+## Concept:
 Our prison is a unique facility located on Morocco's ocean shore. It houses prisoners from across the country who have shown good behaviour in previous prisons. The prison focuses on rehabilitation and correction in a smart and sustainable environment based on a rewarding system.
 the project implements the domotics to facilitate the many aspects of the jail, such as creating adaptable (IR) openings (out/in-doors), controlled mechanisms at all once, and well-organized environments where shifts are well organized and sustainability actions take place.
 
