@@ -1,14 +1,14 @@
 # cyberNexus
-cyber nexus  is an application designed for managing system and security control in the prison
-
-<img width="1244" alt="nexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/1d793e1f-a6bd-4831-af97-8358f10339d3">
-
 
 Concept:
 Our prison is a unique facility located on Morocco's ocean shore. It houses prisoners from across the country who have shown good behaviour in previous prisons. The prison focuses on rehabilitation and correction in a smart and sustainable environment based on a rewarding system.
 the project implements the domotics to facilitate the many aspects of the jail, such as creating adaptable (IR) openings (out/in-doors), controlled mechanisms at all once, and well-organized environments where shifts are well organized and sustainability actions take place.
 
-our team is 6 people from different backgrounds two from each department:
+cyber nexus  is an application designed for managing system and security control in the prison
+
+<img width="1244" alt="nexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/1d793e1f-a6bd-4831-af97-8358f10339d3">
+
+our team is 6 people from different backgrounds two from each department we worked together two days:
 - 2 SAP+D: School of  Architecture, Planning & Design
 - 2 SHBM: School of Hospitality Business & Management
 - me and my friend from LEET: 1337 Coding School.
