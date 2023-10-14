@@ -16,6 +16,11 @@ our team is 6 people from different backgrounds two from each department:
 <img width="1230" alt="cybernexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/61c6522c-266d-443b-86cd-61db495c094a">
 
 the tasks that I implemented with my friend are:
-- create a web interface to help staff of prison to manage daily tasks like (manage present of the staff, food cost control by Menu choice, Prisoner's profiles &archive history, facilitating an award system andorganizational structure), and Access control the all from the app. (like: controle opening/close doors, controle the elevator, lighting, )
+- create a web interface to help staff of prison to manage daily tasks like (manage present of the staff, food cost control by Menu choice, Prisoner's profiles &archive history, facilitating an award system andorganizational structure), and Access control the all from the app. (like: controle opening/close doors, controle the elevator, lighting, surveillance camera)
 - design a system to manage and secure the prison.
 - programe the system in the arduino 
+
+
+
+https://github.com/justr0ma/cyberNexus/assets/112334569/26b8e05e-519b-4b1c-aa34-e4eeeae7863f
+
