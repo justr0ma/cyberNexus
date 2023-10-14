@@ -8,7 +8,9 @@ the project implements the domotics to facilitate the many aspects of the jail, 
 our team is 6 people from different backgrounds two from each department.
 
 2 SAP+D Architecture, Planning & Design
+
 2 SHBM: School of Hospitality Business & Management
+
 me and my friend from LEET: 1337 Coding School. 
 
 the tasks that I implemented with my friend are:
