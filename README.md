@@ -1,6 +1,8 @@
 # cyberNexus
 cyber nexus  is an application designed for managing system and security control in the prison
-<img width="1806" alt="cybernexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/6adf6d4e-92ad-421d-8150-e73a0598741f">
+
+<img width="1244" alt="nexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/1d793e1f-a6bd-4831-af97-8358f10339d3">
+
 
 Concept:
 Our prison is a unique facility located on Morocco's ocean shore. It houses prisoners from across the country who have shown good behaviour in previous prisons. The prison focuses on rehabilitation and correction in a smart and sustainable environment based on a rewarding system.
