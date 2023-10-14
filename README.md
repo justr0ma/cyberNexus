@@ -6,14 +6,13 @@ the project implements the domotics to facilitate the many aspects of the jail, 
 
 cyber nexus  is an application designed for managing system and security control in the prison
 
-<img width="1244" alt="nexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/1d793e1f-a6bd-4831-af97-8358f10339d3">
+<img width="1230" alt="cybernexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/61c6522c-266d-443b-86cd-61db495c094a">
 
 our team is 6 people from different backgrounds two from each department we worked together two days:
 - 2 SAP+D: School of  Architecture, Planning & Design
 - 2 SHBM: School of Hospitality Business & Management
 - me and my friend from LEET: 1337 Coding School.
 
-<img width="1230" alt="cybernexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/61c6522c-266d-443b-86cd-61db495c094a">
 
 the tasks that I implemented with my friend are:
 - create a web interface to help staff of prison to manage daily tasks like (manage present of the staff, food cost control by Menu choice, Prisoner's profiles &archive history, facilitating an award system andorganizational structure), and Access control the all from the app. (like: controle opening/close doors, controle the elevator, lighting, surveillance camera)
@@ -24,3 +23,4 @@ the tasks that I implemented with my friend are:
 
 https://github.com/justr0ma/cyberNexus/assets/112334569/26b8e05e-519b-4b1c-aa34-e4eeeae7863f
 
+![thumbnail](https://github.com/justr0ma/cyberNexus/assets/112334569/a155b5db-8c98-443b-adeb-7d0107e1a5b9)
