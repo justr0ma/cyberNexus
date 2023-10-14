@@ -11,7 +11,9 @@ the project implements the domotics to facilitate the many aspects of the jail, 
 our team is 6 people from different backgrounds two from each department:
 - 2 SAP+D: School of  Architecture, Planning & Design
 - 2 SHBM: School of Hospitality Business & Management
-- me and my friend from LEET: 1337 Coding School. 
+- me and my friend from LEET: 1337 Coding School.
+
+<img width="1230" alt="cybernexus" src="https://github.com/justr0ma/cyberNexus/assets/112334569/61c6522c-266d-443b-86cd-61db495c094a">
 
 the tasks that I implemented with my friend are:
 - create a web interface to help staff of prison to manage daily tasks.
