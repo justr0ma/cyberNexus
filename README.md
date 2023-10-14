@@ -6,7 +6,6 @@ Our prison is a unique facility located on Morocco's ocean shore. It houses pris
 the project implements the domotics to facilitate the many aspects of the jail, such as creating adaptable (IR) openings (out/in-doors), controlled mechanisms at all once, and well-organized environments where shifts are well organized and sustainability actions take place.
 
 our team is 6 people from different backgrounds two from each department:
-
 - 2 SAP+D Architecture, Planning & Design
 - 2 SHBM: School of Hospitality Business & Management
 - me and my friend from LEET: 1337 Coding School. 
